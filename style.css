@@ -15,6 +15,7 @@ body {
     text-align: center;
     padding: 30px;
     border-radius: 10px;
+    box-shadow: 3px 4px 31px -3px rgba(146, 146, 146, 0.75);
 }
 
 #quote {
@@ -24,11 +25,12 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: aquamarine;
+    background-color: #7fffd4;
     font-size: 1.2rem;
     border-radius: 10px;
     color: rgb(19, 18, 18);
     font-weight: bold;
+    box-shadow: 0px 2px 20px 8px #88d8bd inset;
 }
 
 button {
@@ -39,11 +41,11 @@ button {
     color: white;
     font-weight: bold;
     font-size: 1em;
-    box-shadow: 1px 2px 5px 2px rgb(79, 79, 173);
+    box-shadow: 0px 2px 20px 8px rgba(42, 42, 83, 0.3);
 }
 
 button:hover {
     background-color: rgba(136, 136, 221, .9);
     cursor: pointer;
-    box-shadow: 1px 2px 5px 2px rgba(79, 79, 173, .8);
+    box-shadow: 0px 2px 20px 8px rgba(42, 42, 83, 0.5);
 }
