@@ -9,5 +9,7 @@ const newQuote = () => {
 
 const displayQuote = quote => {
     const container = document.getElementById('quote');
-    container.innerText = quote.quote;
+    container.innerText = `" ${quote.quote} "`;
 }
+
+newQuote()
