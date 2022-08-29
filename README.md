@@ -24,8 +24,8 @@ Simple one page app that show new quote for Kanye every time you press the butto
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/shamratPG/kanye-rest-quote-app)
-- Live Site URL: [Add live site URL here](https://shamratpg.github.io/kanye-rest-quote-app/)
+- [Solution URL:](https://github.com/shamratPG/kanye-rest-quote-app)
+- [Live Site URL:](https://shamratpg.github.io/kanye-rest-quote-app/)
 
 
 ### Built with
